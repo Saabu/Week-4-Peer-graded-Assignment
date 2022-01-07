@@ -1,8 +1,8 @@
 ##############################################################################
 #
 # FILE
-#   run_analysis.R
-#
+#   Analysis.R
+# Author: Ronit Chakraborty
 # OVERVIEW
 #   Using data collected from the accelerometers from the Samsung Galaxy S 
 #   smartphone, work with the data and make a clean data set, outputting the
