@@ -1,3 +1,5 @@
+Author: Ronit Chakraborty
+
 Coursera Getting and Cleaning Data course project
 
 One of the most exciting areas in all of data science right now is wearable computing - see for example this article. Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users.
